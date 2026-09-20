@@ -1,0 +1,8 @@
+{
+  "name": "Remix Quantum Threat Detection for QDS",
+  "description": "Quantum-inspired cyber threat detection framework for teleportation-based Quantum Digital Signature (QDS) protocols using Pauli eigenstates, Bell entanglement, and projective measurement verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
